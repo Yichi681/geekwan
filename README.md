@@ -1,3 +1,3 @@
 # geekwan
+### 看release
 手机游戏性能大横评：厂商作弊太疯狂！
-看release
